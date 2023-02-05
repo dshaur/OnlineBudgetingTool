@@ -1,4 +1,4 @@
-# OnlineBudgetingTool
+# Online Budgeting Tool
 Online Budgeting Tool that will allow users to manage their expenses more effectively.
 
 Purpose of the software
