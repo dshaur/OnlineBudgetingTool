@@ -1,10 +1,10 @@
 # Online Budgeting Tool
 
-### Overview
+## Overview
 
   This project aims to create an online budgeting tool that allows users to manage their expenses and income in a simple and efficient way. The application will be built using ASP.NET Core and will be hosted on Microsoft Azure. The project will have a simple user interface that allows users to create and manage their budgets and track their expenses and income. The application will use Microsoft Azure's cloud services to store and retrieve data, making it scalable and accessible from anywhere with an internet connection.
 
-### User Stories
+## User Stories
 
 As a user, I want to create a budget and set a limit for my monthly expenses.
 
@@ -18,7 +18,7 @@ As a user, I want to be able to receive alerts when I am close to reaching my bu
 
 As a user, I want to be able to view my expenses and income by date.
 
-### Use Cases
+## Use Cases
 
 Creating a Budget: A user will be able to create a new budget by setting a limit for their monthly expenses.
 
@@ -32,7 +32,7 @@ Budget Alerts: A user will receive alerts when they are close to reaching their 
 
 Viewing Transactions: A user will be able to view their expenses and income by date.
 
-### Architecture Diagram
+## Architecture Diagram
 
 ![alt text](https://github.com/dshaur/markdown-here/blob/main/Online_Budgeting_Tool_Architecture_Diagram.png "Architecture Diagram 1")
 
