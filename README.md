@@ -46,4 +46,4 @@ The application has been decomposed into multiple components:
 
 * Admin Application: This component will provide an interface for the administrators to manage the application and its data.
 
-  The different components will be linked by APIs and will communicate with each other to provide the desired functionality. The architecture is simple, scalable, and can be easily maintained and extended in the future.
+The different components will be linked by APIs and will communicate with each other to provide the desired functionality. The architecture is simple, scalable, and can be easily maintained and extended in the future.
