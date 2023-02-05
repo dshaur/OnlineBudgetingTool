@@ -34,6 +34,8 @@ Viewing Transactions: A user will be able to view their expenses and income by d
 
 Architecture Diagram
 
+![alt text](https://github.com/dshaur/markdown-here/blob/main/Online_Budgeting_Tool_Architecture_Diagram.png "Architecture Diagram 1")
+
 The application has been decomposed into multiple components:
 
 Presentation Layer: This component will be responsible for rendering the user interface and receiving user input.
