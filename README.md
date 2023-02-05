@@ -6,17 +6,17 @@
 
 ## User Stories
 
-As a user, I want to create a budget and set a limit for my monthly expenses.
+*As a user, I want to create a budget and set a limit for my monthly expenses.
 
-As a user, I want to add and manage my income and expenses.
+*As a user, I want to add and manage my income and expenses.
 
-As a user, I want to see a graphical representation of my spending habits over time.
+*As a user, I want to see a graphical representation of my spending habits over time.
 
-As a user, I want to be able to categorize my expenses and view them by category.
+*As a user, I want to be able to categorize my expenses and view them by category.
 
-As a user, I want to be able to receive alerts when I am close to reaching my budget limit.
+*As a user, I want to be able to receive alerts when I am close to reaching my budget limit.
 
-As a user, I want to be able to view my expenses and income by date.
+*As a user, I want to be able to view my expenses and income by date.
 
 ## Use Cases
 
