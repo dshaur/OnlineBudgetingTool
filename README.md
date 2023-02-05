@@ -8,15 +8,21 @@ The main purpose of the online budgeting tool is to provide users with a conveni
 Functional requirements
 
 The online budgeting tool will provide the following functionality:
+
 •	Input: Users will be able to input their expenses into the system, including the amount, category, and date. They will also be able to upload supporting documents, such as receipts.
+
 •	Processing: The system will process the input data and generate expense reports.
+
 •	Output: Users will be able to view their expense reports in a simple and easy-to-use interface. They will also be able to download their expense reports in PDF format for offline viewing.
 
 Relevant literature
 
 Some of the relevant literature that will assist in completing this project includes:
+
 •	"The Psychology of Money" by Morgan Housel
+
 •	"The Simple Path to Wealth" by JL Collins
+
 •	"Your Money or Your Life" by Vicki Robin and Joe Dominguez
 
 Similar software 
@@ -26,17 +32,25 @@ There are many expenses management and budgeting tools available on the market, 
 Project plan
 
 The project will be completed in several phases:
+
 •	Phase 1: Design and planning. This phase will involve designing the overall system architecture and user interface, as well as creating a detailed project plan.
+
 •	Phase 2: Development. This phase will involve developing the backend and frontend of the system, including the database and API.
+
 •	Phase 3: Testing. This phase will involve testing the system to ensure that it meets the functional requirements and performs correctly.
+
 •	Phase 4: Deployment. This phase will involve deploying the system to the Microsoft Azure cloud platform with their free tier.
 
 Data Storage and technology
 
 The online budgeting tool will store the following data:
+
 •	Users personal information (username, password, email)
+
 •	Users financial data (expenses, budgets)
+
 •	Users financial reports (expense reports)
+
 The data will be collected by the user through the web application and stored in an SQLite database. SQLite is a lightweight, file-based database engine that is easy to use and requires minimal setup and maintenance, making it a suitable choice for this project.
 The data stored in the system will be used to generate expense reports and provide users with personalized financial recommendations based on their spending patterns.
 
