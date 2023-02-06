@@ -50,9 +50,18 @@ The different components will be linked by APIs and will communicate with each o
 
 ## Wireframe Sketches
 
-### Homepage
-![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/Wireframe1_Homepage.png "Wireframe 1 Homepage")
+### Home Page
+![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/Wireframe1_Homepage.png "Wireframe 1 Home Page")
 
 * This page serves as the main landing page for the web budgeting tool.
 * It displays a summary of the user's current financial status, including their total income, expenses, and savings.
 * The page also includes links to other areas of the application, such as the transactions page, budget page, and reports page.
+
+### Transactions Page
+![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/Wireframe2_Transactions.png "Wireframe 2 Transactions Page")
+
+* This page allows users to view a list of all their financial transactions, including income and expenses.
+* Users can filter transactions by category, date, or search for specific transactions.
+* Users can also add new transactions by clicking a button that opens a modal form for entering transaction details.
+
+
