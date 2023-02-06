@@ -78,3 +78,12 @@ The different components will be linked by APIs and will communicate with each o
 * Users can adjust the budget for each category by sliding a bar or entering a specific amount.
 
 * The page also shows the user's current progress against their budget for each category.
+
+### Reports Page
+![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/Wireframe4_Reports.png "Wireframe 4 Reports Page")
+
+* This page allows users to view financial reports for their transactions and budget.
+
+* Users can choose from several report types, such as monthly or annual reports.
+
+* The reports are displayed in the form of line or bar graphs and can be downloaded as PDF or CSV files.
