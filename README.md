@@ -48,7 +48,7 @@ The application has been decomposed into multiple components:
 
 The different components will be linked by APIs and will communicate with each other to provide the desired functionality. The architecture is simple, scalable, and can be easily maintained and extended in the future.
 
-## Wireframe Sketches
+## Drafts
 
 ### Home Page
 ![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/Wireframe1_Homepage.png "Wireframe 1 Home Page")
