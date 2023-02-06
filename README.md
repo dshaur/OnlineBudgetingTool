@@ -47,3 +47,12 @@ The application has been decomposed into multiple components:
 * Admin Application: This component will provide an interface for the administrators to manage the application and its data.
 
 The different components will be linked by APIs and will communicate with each other to provide the desired functionality. The architecture is simple, scalable, and can be easily maintained and extended in the future.
+
+## Wireframe Sketches
+
+### Homepage
+![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/Wireframe1_Homepage.png "Wireframe 1 Homepage")
+
+* This page serves as the main landing page for the web budgeting tool.
+* It displays a summary of the user's current financial status, including their total income, expenses, and savings.
+* The page also includes links to other areas of the application, such as the transactions page, budget page, and reports page.
