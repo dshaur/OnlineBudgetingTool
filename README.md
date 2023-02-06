@@ -34,7 +34,7 @@
 
 ## Architecture Diagram
 
-![alt text](https://github.com/dshaur/markdown-here/blob/main/Online_Budgeting_Tool_Architecture_Diagram.png "Architecture Diagram 1")
+![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/Online_Budgeting_Tool_Architecture_Diagram.png "Architecture Diagram 1")
 
 The application has been decomposed into multiple components:
 
