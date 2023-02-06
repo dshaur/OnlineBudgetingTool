@@ -102,4 +102,6 @@ This is just a rough approximation of what the wireframe sketches could look lik
 ## Use Case Diagram (UML)
 ![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/Use_Case_Diagram_v1.png "Use Case Diagram version 1")
 
-In this diagram, the Web User actor is able to perform the actions of creating an account, logging in, viewing transactions, adding transactions, updating transactions, deleting transactions, viewing budget, and updating budget. The System actor is responsible for storing user data, validating the login, displaying transactions, storing transactions, updating transactions, deleting transactions, displaying budget, and updating budget. The arrows between the User and System actors indicate the flow of interactions between them.
+In this diagram, the Web User actor is able to perform the actions of creating an account, logging in, viewing transactions, adding transactions, updating transactions, deleting transactions, viewing budget, and updating budget. 
+
+The System actor is responsible for storing user data, validating the login, displaying transactions, storing transactions, updating transactions, deleting transactions, displaying budget, and updating budget. The arrows between the User and System actors indicate the flow of interactions between them.
