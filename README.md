@@ -87,3 +87,14 @@ The different components will be linked by APIs and will communicate with each o
 * Users can choose from several report types, such as monthly or annual reports.
 
 * The reports are displayed in the form of line or bar graphs and can be downloaded as PDF or CSV files.
+
+### Settings Page
+![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/Wireframe5_Settings.png "Wireframe 5 Settings Page")
+
+* A form to update personal information, with fields for "Full Name", "Email", and "Password"
+
+* A "Save Changes" button to submit the updated information
+
+* A "Back" button to return to the Budget Overview page
+
+This is just a rough approximation of what the wireframe sketches could look like. The actual sketches can be adjusted and refined based on feedback and design considerations.
