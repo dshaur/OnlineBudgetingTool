@@ -117,6 +117,6 @@ The System actor is responsible for storing user data, validating the login, dis
 | 5	| The system shall send alerts to users when they are close to reaching their budget limit. |
 | 6	| The system shall allow users to view their expenses and income by date. |
 
-Each of these requirements can be objectively tested by verifying that the specified functionality exists and works as expected within the system. For example, the test for requirement 1 could involve attempting to create a new budget and verifying that the user is able to set a limit for their monthly expenses. 
+Each of these requirements can be objectively tested by verifying that the specified functionality exists and works as expected within the system. 
 
-Similarly, the test for requirement 5 could involve setting up an alert for a specific budget and verifying that the user receives a notification when they approach the limit.
+For example, the test for requirement 1 could involve attempting to create a new budget and verifying that the user is able to set a limit for their monthly expenses. Similarly, the test for requirement 5 could involve setting up an alert for a specific budget and verifying that the user receives a notification when they approach the limit.
