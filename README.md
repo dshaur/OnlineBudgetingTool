@@ -105,3 +105,15 @@ This is just a rough approximation of what the wireframe sketches could look lik
 In this diagram, the Web User actor is able to perform the actions of creating an account, logging in, viewing transactions, adding transactions, updating transactions, deleting transactions, viewing budget, and updating budget. 
 
 The System actor is responsible for storing user data, validating the login, displaying transactions, storing transactions, updating transactions, deleting transactions, displaying budget, and updating budget. The arrows between the User and System actors indicate the flow of interactions between them.
+
+## Requirements Table
+
+| ID	| Requirement |
+| --- | ----------- |
+| 1	  | The system shall allow users to create a budget by setting a limit for their monthly expenses. |
+| 2	| The system shall allow users to add and manage their income and expenses by providing details such as amount, date, and category. |
+| 3	| The system shall provide a graphical representation of a user's spending habits over time. |
+| 4	| The system shall allow users to categorize their expenses into categories such as food, entertainment, transportation, etc. |
+| 5	| The system shall send alerts to users when they are close to reaching their budget limit. |
+| 6	| The system shall allow users to view their expenses and income by date. |
+
