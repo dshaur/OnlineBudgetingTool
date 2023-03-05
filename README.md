@@ -24,6 +24,7 @@
  8. [Entity Relationship Diagram (ERD)](https://github.com/dshaur/OnlineBudgetingTool#entity-relationship-diagram-erd)
 
  9. [Updated Use Case Diagram (UML)](https://github.com/dshaur/OnlineBudgetingTool#updated-use-case-diagram-uml)
+-----------
 
 ## Overview
 
