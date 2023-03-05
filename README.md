@@ -109,7 +109,7 @@ The System actor is responsible for storing user data, validating the login, dis
 ## Updated Use Case Diagram (UML)
 ![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/UMLv2.png "Use Case Diagram version 2") 
 
-n this class diagram, we have two classes: User and System. The User class represents the user of the online budgeting tool, and the System class represents the system that the user interacts with.
+In this updated class diagram, we have four classes: User, System, Transactions and Budget. The User class represents the user of the online budgeting tool, and the System class represents the system that the user interacts with.
 
 The User class has attributes id, username, and password, which are all private (- visibility). It also has several methods that correspond to the actions the user can perform in the online budgeting tool, including createUser(), viewTransactions(), addTransaction(), updateTransaction(), deleteTransaction(), viewBudget(), and updateBudget(). These methods have different return types, parameters, and visibility based on their specific functionality.
 
