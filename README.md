@@ -129,3 +129,17 @@ The System class has three private attributes, users, transactions, and budgets,
 Each of these requirements can be objectively tested by verifying that the specified functionality exists and works as expected within the system. 
 
 For example, the test for requirement 1 could involve attempting to create a new budget and verifying that the user is able to set a limit for their monthly expenses. Similarly, the test for requirement 5 could involve setting up an alert for a specific budget and verifying that the user receives a notification when they approach the limit.
+
+## Entity Relationship Diagram (ERD)
+![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/ERD.png "Entity Relationship Diagram version 1")
+
+The ERD consists of four entities: User, Budget, Category, and Transaction.
+
+The User entity represents a user account, with attributes for UserId (primary key), Username, Password, FullName, and Email.
+
+The Budget entity represents a budget created by a user, with attributes for BudgetId (primary key), UserId (foreign key), and Limit. Each user can have multiple budgets, so there is a one-to-many relationship between User and Budget.
+
+The Category entity represents a category that an expense can be classified into, with attributes for CategoryId (primary key) and Name. Each category can have multiple transactions associated with it, so there is a one-to-many relationship between Category and Transaction.
+
+The Transaction entity represents a financial transaction, with attributes for TransactionId (primary key), UserId (foreign key), Amount, Date, and CategoryId (foreign key). Each transaction is associated with one category and one user, and there can be multiple transactions associated with a user, so there is a one-to-many relationship between User and Transaction.
+
