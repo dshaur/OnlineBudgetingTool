@@ -11,11 +11,11 @@
  4. [Architecture Diagram](https://github.com/dshaur/OnlineBudgetingTool#architecture-diagram)
 
  5. [Drafts](https://github.com/dshaur/OnlineBudgetingTool#drafts)
- * [Home Page](https://github.com/dshaur/OnlineBudgetingTool#home-page)
- * [Transactions Page](https://github.com/dshaur/OnlineBudgetingTool#transactions-page)
- * [Budget Page](https://github.com/dshaur/OnlineBudgetingTool#budget-page)
- * [Reports Page](https://github.com/dshaur/OnlineBudgetingTool#reports-page)
- * [Settings Page](https://github.com/dshaur/OnlineBudgetingTool#settings-page)
+    * [Home Page](https://github.com/dshaur/OnlineBudgetingTool#home-page)
+    * [Transactions Page](https://github.com/dshaur/OnlineBudgetingTool#transactions-page)
+    * [Budget Page](https://github.com/dshaur/OnlineBudgetingTool#budget-page)
+    * [Reports Page](https://github.com/dshaur/OnlineBudgetingTool#reports-page)
+    * [Settings Page](https://github.com/dshaur/OnlineBudgetingTool#settings-page)
 
  6. [Use Case Diagram (UML)](https://github.com/dshaur/OnlineBudgetingTool#use-case-diagram-uml)
  
