@@ -2,29 +2,28 @@
 
 -----------
  ## Table of Contents
- [Overview](https://github.com/dshaur/OnlineBudgetingTool#overview)
+ 1. [Overview](https://github.com/dshaur/OnlineBudgetingTool#overview)
 
- [User Stories](https://github.com/dshaur/OnlineBudgetingTool#user-stories)
+ 2. [User Stories](https://github.com/dshaur/OnlineBudgetingTool#user-stories)
 
- [Use Cases](https://github.com/dshaur/OnlineBudgetingTool#use-cases)
+ 3. [Use Cases](https://github.com/dshaur/OnlineBudgetingTool#use-cases)
 
- [Architecture Diagram](https://github.com/dshaur/OnlineBudgetingTool#architecture-diagram)
+ 4. [Architecture Diagram](https://github.com/dshaur/OnlineBudgetingTool#architecture-diagram)
 
- [Drafts](https://github.com/dshaur/OnlineBudgetingTool#drafts)
-
+ 5. [Drafts](https://github.com/dshaur/OnlineBudgetingTool#drafts)
  * [Home Page](https://github.com/dshaur/OnlineBudgetingTool#home-page)
  * [Transactions Page](https://github.com/dshaur/OnlineBudgetingTool#transactions-page)
  * [Budget Page](https://github.com/dshaur/OnlineBudgetingTool#budget-page)
  * [Reports Page](https://github.com/dshaur/OnlineBudgetingTool#reports-page)
  * [Settings Page](https://github.com/dshaur/OnlineBudgetingTool#settings-page)
 
- [Use Case Diagram (UML)](https://github.com/dshaur/OnlineBudgetingTool#use-case-diagram-uml)
+ 6. [Use Case Diagram (UML)](https://github.com/dshaur/OnlineBudgetingTool#use-case-diagram-uml)
  
- [Requirements Table](https://github.com/dshaur/OnlineBudgetingTool#requirements-table)
+ 7. [Requirements Table](https://github.com/dshaur/OnlineBudgetingTool#requirements-table)
 
- [Entity Relationship Diagram (ERD)](https://github.com/dshaur/OnlineBudgetingTool#entity-relationship-diagram-erd)
+ 8. [Entity Relationship Diagram (ERD)](https://github.com/dshaur/OnlineBudgetingTool#entity-relationship-diagram-erd)
 
- [Updated Use Case Diagram (UML)](https://github.com/dshaur/OnlineBudgetingTool#updated-use-case-diagram-uml)
+ 9. [Updated Use Case Diagram (UML)](https://github.com/dshaur/OnlineBudgetingTool#updated-use-case-diagram-uml)
 
 ## Overview
 
