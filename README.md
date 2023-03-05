@@ -1,5 +1,31 @@
 # Online Budgeting Tool
 
+-----------
+ ## Table of Contents
+ [Overview](https://github.com/dshaur/OnlineBudgetingTool#overview)
+
+ [User Stories](https://github.com/dshaur/OnlineBudgetingTool#user-stories)
+
+ [Use Cases](https://github.com/dshaur/OnlineBudgetingTool#use-cases)
+
+ [Architecture Diagram](https://github.com/dshaur/OnlineBudgetingTool#architecture-diagram)
+
+ [Drafts](https://github.com/dshaur/OnlineBudgetingTool#drafts)
+
+ * [Home Page](https://github.com/dshaur/OnlineBudgetingTool#home-page)
+ * [Transactions Page](https://github.com/dshaur/OnlineBudgetingTool#transactions-page)
+ * [Budget Page](https://github.com/dshaur/OnlineBudgetingTool#budget-page)
+ * [Reports Page](https://github.com/dshaur/OnlineBudgetingTool#reports-page)
+ * [Settings Page](https://github.com/dshaur/OnlineBudgetingTool#settings-page)
+
+ [Use Case Diagram (UML)](https://github.com/dshaur/OnlineBudgetingTool#use-case-diagram-uml)
+ 
+ [Requirements Table](https://github.com/dshaur/OnlineBudgetingTool#requirements-table)
+
+ [Entity Relationship Diagram (ERD)](https://github.com/dshaur/OnlineBudgetingTool#entity-relationship-diagram-erd)
+
+ [Updated Use Case Diagram (UML)](https://github.com/dshaur/OnlineBudgetingTool#updated-use-case-diagram-uml)
+
 ## Overview
 
   This project aims to create an online budgeting tool that allows users to manage their expenses and income in a simple and efficient way. The application will be built using ASP.NET Core and will be hosted on Microsoft Azure. The project will have a simple user interface that allows users to create and manage their budgets and track their expenses and income. The application will use Microsoft Azure's cloud services to store and retrieve data, making it scalable and accessible from anywhere with an internet connection.
