@@ -1,10 +1,10 @@
 # Online Budgeting Tool: Budget Page Prototype
 
 ## Mock Examples
-![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/Online_Budgeting_Tool_Architecture_Diagram.png "Architecture Diagram 1")
+![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/prototype/images/Budget-page-prototype.png "Budget Prototype Example 1")
 
 
-![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/images/Online_Budgeting_Tool_Architecture_Diagram.png "Architecture Diagram 1")
+![alt text](https://github.com/dshaur/OnlineBudgetingTool/blob/main/prototype/images/Budget-page-prototype-2.png "Budget Prototype Example 2")
 
 The Budget page has two main sections: Budget and Expenditure.
 
